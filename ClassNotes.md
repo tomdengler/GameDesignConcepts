@@ -22,6 +22,7 @@ Scientific Method (process)
 - carrying out experiments based on those predictions.
 
 **The purpose of iteration is to lower design risk**
+
 **the more you iterate on a game, the better it becomes**
 
 
